@@ -2,7 +2,7 @@
 /*
 Plugin Name: Map for the camp Zimary
 Description: Interactive map for the camp Zimary
-Version: 2.0
+Version: 2.0.1
 Author: Salivon Eugene
 */
 
